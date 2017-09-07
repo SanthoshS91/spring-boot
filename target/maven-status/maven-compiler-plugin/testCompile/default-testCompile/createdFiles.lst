@@ -1,0 +1,9 @@
+com\avenuecode\orders\OrdersApplicationTest.class
+com\avenuecode\orders\resource\OrderResourceTest.class
+com\avenuecode\orders\service\OrderServiceTest.class
+com\avenuecode\orders\service\ProductServiceTest$Phone.class
+com\avenuecode\orders\resource\ProductResourceTest.class
+com\avenuecode\orders\service\ProductServiceTest.class
+com\avenuecode\orders\service\SearchServiceTest.class
+com\avenuecode\orders\resource\SearchResourceTest.class
+com\avenuecode\orders\service\OrderServiceTest$Electronics.class

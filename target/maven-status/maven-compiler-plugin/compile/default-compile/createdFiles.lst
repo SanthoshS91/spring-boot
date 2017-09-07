@@ -1,0 +1,12 @@
+com\avenuecode\orders\domain\Order.class
+com\avenuecode\orders\resource\SearchResource$OrderStatus.class
+com\avenuecode\orders\service\ProductService.class
+com\avenuecode\orders\repository\OrderRepository.class
+com\avenuecode\orders\resource\SearchResource.class
+com\avenuecode\orders\service\OrderService.class
+com\avenuecode\orders\resource\OrderResource.class
+com\avenuecode\orders\resource\ProductResource.class
+com\avenuecode\orders\domain\Product.class
+com\avenuecode\orders\service\SearchService.class
+com\avenuecode\orders\OrdersApplication.class
+com\avenuecode\orders\repository\ProductRepository.class
