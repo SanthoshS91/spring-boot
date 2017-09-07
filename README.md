@@ -29,9 +29,7 @@ OR
 4. Import the workspace in STS.
 5. Right click on the orders application and run as spring-boot
 
-Requirements
-============
-### Task 1) ###
+Task 1) ###
 Goal is to add a new generic `Search REST API` to retrieve all relevant information matching the following criteria:
 
 #### Criteria 1: Filter all the orders which are shipped. ####
